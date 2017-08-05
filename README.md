@@ -1,7 +1,9 @@
 # ref-sympy
 
-http://nbviewer.jupyter.org/github/notweN-zinbieL/
+[notweN-zinbieL](http://nbviewer.jupyter.org/github/notweN-zinbieL/)
 
-http://nbviewer.jupyter.org/github/notweN-zinbieL/ref-sympy
+[notweN-zinbieL/ref-sympy](http://nbviewer.jupyter.org/github/notweN-zinbieL/ref-sympy)
 
-http://nbviewer.jupyter.org/github/notweN-zinbieL/ref-sympy/blob/master/Reference_Sympy.ipynb
+[Reference_Sympy.ipynb](http://nbviewer.jupyter.org/github/notweN-zinbieL/ref-sympy/blob/master/Reference_Sympy.ipynb)
+
+[...](https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/SymPy.ipynb)
